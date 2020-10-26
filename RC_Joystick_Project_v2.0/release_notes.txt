@@ -1,0 +1,8 @@
+ver 2.0
+-pinlerin ve konfigürasyon ayarlarý eklendi.
+-trim mekanizmasý baþtan yazýldý.
+-trim için konfigürasyon ayarlarý eklendi.
+-throttle, rudder  ve aux kanallarý opsiyonel hale getirildi.
+-reverse eklendi.
+-end point çarpaný eklendi.
+-oto kalibrasyon eklendi.
