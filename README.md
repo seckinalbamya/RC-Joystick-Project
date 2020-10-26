@@ -29,4 +29,10 @@ tamamlanır ve yazılım çalışmaya başlar.
 Teşekkürler:
 *Oğuzhan Taşdemir'e ve INMUK üyelerine çalışmada verdiği destekten dolayı teşekkürler.
 
+İletişim:
+
+*Soru, öneri veya hata bildirmek isterseniz aşağıdaki davet linkinden Telegram grubumuza ulaşarak bildirebilirsiniz.
+
+Telegram grubu: https://t.me/joinchat/S-207kyqjQuEK85VETLKsA
+
 MIT lisansı ile paylaşılan Christopher Schirner (schinken)'in PPMEncoder kütüphanesi kullanılarak PPM çıkışı sağlanmıştır.
