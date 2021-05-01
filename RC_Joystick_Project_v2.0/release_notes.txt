@@ -1,8 +1,11 @@
 ver 2.0
--pinlerin ve konfigürasyon ayarları eklendi.
--trim mekanizması baştan yazıldı.
--trim için konfigürasyon ayarları eklendi.
--throttle, rudder  ve aux kanalları opsiyonel hale getirildi.
+-pinlerin ve konfigÃ¼rasyon ayarlarÄ± eklendi.
+-trim mekanizmasÄ± baÅŸtan yazÄ±ldÄ±.
+-trim iÃ§in konfigÃ¼rasyon ayarlarÄ± eklendi.
+-throttle, rudder  ve aux kanallarÄ± opsiyonel hale getirildi.
 -reverse eklendi.
--end point çarpanı eklendi.
+-end point Ã§arpanÄ± eklendi.
 -oto kalibrasyon eklendi.
+
+ver 2.01
+-CH1 Ã§Ä±kÄ±ÅŸ hesaplamasÄ±ndaki hata giderildi.
