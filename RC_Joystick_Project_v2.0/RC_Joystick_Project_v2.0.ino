@@ -279,7 +279,7 @@ void buzzeroff()
 void joystickposition()
 {
   if( analogRead(ailpot) < EEPROM.read(2)*4 )
-    CH1 =  + map(analogRead(ailpot) , EEPROM.read(0)*4 , EEPROM.read(2)*4 ,  (1500 - ailrange * ailreverse * 500) , 1500 );
+    CH1 = ailtrim + map(analogRead(ailpot) , EEPROM.read(0)*4 , EEPROM.read(2)*4 ,  (1500 - ailrange * ailreverse * 500) , 1500 );
   else if( analogRead(ailpot) >= EEPROM.read(2)*4 )
     CH1 = ailtrim + map( analogRead(ailpot) , EEPROM.read(2)*4 , EEPROM.read(1)*4 , 1500 , (1500 + ailrange * ailreverse * 500) );
     
