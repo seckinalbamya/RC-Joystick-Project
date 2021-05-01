@@ -1,4 +1,4 @@
-// RC Joystick Project Version 2.0
+// RC Joystick Project Version 2.01
 /*Seçkin Albamya (TA3UAS) tarafından yazılmıştır.
 Elektronik devrenin hayata geçirilmesi ve testler Seçkin Albamya - Oğuzhan Taşdemir tarafından yapılmıştır.
 
