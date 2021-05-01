@@ -2,6 +2,10 @@ RC araçlara trainer portü üzerinden Joystick bağlamak üzerine yapılmış b
 
 Proje tanıtım videosu : https://youtu.be/n3OITI3CZNc
 
+Yazılımın çalışması için PPMEncoder kütüphanesi Arduino'ya eklenmelidir.
+PPMEncoder: https://github.com/schinken/PPMEncoder
+Üst menülerden Taslak > library ekle > .ZIP Kitaplığı Ekle kısmına girilip üstteki linkten indirilen zip dosyası seçilmelidir.
+
 Donanım konusunda bilgilendirme:
 *Sistem potansiyometrelerdeki gerilimi ölçerek konumu öğrenmek ve trim değerlerini ölçülen değerlere ekleyerek çıkış vermek üzerine kurulmuştur.
 
